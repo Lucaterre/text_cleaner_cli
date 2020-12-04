@@ -1,5 +1,6 @@
 # text cleaner cli
 
+![logo](./resources/logo.png)
 
 ## :mag_right: Description
 
