@@ -1,4 +1,4 @@
-# text_cleaner_cli
+# text cleaner cli
 
 
 ## :mag_right: Description
